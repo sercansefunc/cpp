@@ -1,2 +1,2 @@
 # cpp
-kendi yazdigim ufak tefek basit seyler
+C++ dilinde kendimi geliştirmek için yazdigim basit kod öbekleri.
